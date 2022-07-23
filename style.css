@@ -1,0 +1,64 @@
+.navbar {
+    background-color: #EF5B0C;
+    
+}
+
+body {
+    background-color: #D4F6CC;
+}
+
+.nav-item:hover {
+   background-color: #003865;
+}
+
+.dropdown-item:hover {
+    background-color: #3CCF4E;
+}
+
+.dropdown-item {
+    background-color: #D4F6CC;
+    background-repeat: repeat;
+}
+
+a {
+    padding: 1px 6px;
+}
+
+#search-submit {
+    background-color: #003865;
+}
+
+#search-submit:hover {
+    background-color: #3CCF4E;
+}
+
+.bottom-div {
+    background-color: #D4F6CC;
+}
+
+.bi:hover {
+    color: #EF5B0C;
+}
+
+.btn {
+    background-color: #3CCF4E;
+}
+
+.btn:hover {
+    background-color: #EF5B0C;
+}
+/* .btn:visited {
+    background-color: #003865;
+} */
+.btn:hover::after {
+    background-color: #EF5B0C;
+}
+
+.modal-content {
+    background-color: #D4F6CC;
+}
+
+
+.bottom-text {
+    color: #EF5B0C;
+}
